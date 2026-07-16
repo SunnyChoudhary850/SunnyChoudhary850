@@ -19,6 +19,7 @@ Hi, I'm Sunny Choudhary, a Computer Science graduate from India with a passion f
   </tr>
   
 </table>
+<!--
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=SunnyChoudhary850&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
@@ -29,6 +30,7 @@ Hi, I'm Sunny Choudhary, a Computer Science graduate from India with a passion f
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=SunnyChoudhary850&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
