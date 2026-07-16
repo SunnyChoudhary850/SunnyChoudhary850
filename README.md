@@ -14,15 +14,20 @@ Hi, I'm Sunny Choudhary, a Computer Science graduate from India with a passion f
       <img src="https://streak-stats.demolab.com/?user=SunnyChoudhary850&theme=ambient_gradient&hide_border=false"/>
     </td>
     <td width="35%" align="center">
-      <img src="./Coding Animation.gif" width="220"/>
+      <img src="./Coding%20Animation.gif" width="220"/>
     </td>
   </tr>
+  
 </table>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=SunnyChoudhary850&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=SunnyChoudhary850&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true"/>
+</p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyChoudhary850&theme=ambient_gradient&hide_border=false&layout=compact"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyChoudhary850&theme=ambient_gradient&hide_border=false&layout=compact"/>
+</p>
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=SunnyChoudhary850&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
