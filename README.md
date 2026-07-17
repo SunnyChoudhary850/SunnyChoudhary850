@@ -14,7 +14,7 @@ Hi, I'm Sunny Choudhary, a Computer Science graduate from India with a passion f
       <img src="https://streak-stats.demolab.com/?user=SunnyChoudhary850&theme=ambient_gradient&hide_border=false&cache_seconds=0"/>
     </td>
     <td width="35%" align="center">
-      <img src="./Coding%20Animation.gif" width="300"/>
+      <img src="./Coding%20Animation.gif" width="220"/>
     </td>
   </tr>
   
